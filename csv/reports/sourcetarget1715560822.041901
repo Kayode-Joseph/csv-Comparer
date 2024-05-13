@@ -1,0 +1,5 @@
+Record Identifier,Header,Description
+ALL,Weight,"Header column: Weight, is missing from source CSV"
+2,Age,There is a mismatch between source value:30 and target value:29 
+4,ALL,"Record with Identifier: 4, is missing from target CSV"
+5,ALL,"Record with Identifier: 5, is missing from source CSV"
