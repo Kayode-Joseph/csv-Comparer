@@ -14,6 +14,11 @@ target.txt, source.txt.
 Generated report CSV would be stored in the root-dir/csv/reports/source-file-name + target-file-name
 
 
+-If all the values in the csv are numeric values,
+you would be prompted to enter and error threshold 
+for the fuzzy equals that would be performed on the source and target csvs
+
+
 
 
 
